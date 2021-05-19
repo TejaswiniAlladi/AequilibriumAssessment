@@ -1,0 +1,38 @@
+2021-05-19 16:27:24,630 - login -INFO - url is opened
+2021-05-19 16:27:25,713 - login -INFO - clicked on login
+2021-05-19 16:27:25,728 - login -INFO - login success
+2021-05-19 16:27:44,876 - login -INFO - user name provided
+2021-05-19 16:27:45,046 - login -INFO - password provided
+2021-05-19 16:27:47,470 - login -INFO - login success
+2021-05-19 16:27:48,495 - login -INFO - user name provided
+2021-05-19 16:27:48,625 - login -INFO - password provided
+2021-05-19 16:27:50,942 - login -INFO - login success
+2021-05-19 16:27:54,477 - login -INFO - user name provided
+2021-05-19 16:27:54,644 - login -INFO - password provided
+2021-05-19 16:27:56,993 - login -INFO - login success
+2021-05-19 16:27:57,949 - login -INFO - user name provided
+2021-05-19 16:27:58,074 - login -INFO - password provided
+2021-05-19 16:28:05,423 - login -INFO - login success
+2021-05-19 16:28:06,268 - login -INFO - user name provided
+2021-05-19 16:28:06,362 - login -INFO - password provided
+2021-05-19 16:28:08,660 - login -INFO - login success
+2021-05-19 16:28:11,975 - login -INFO - user name provided
+2021-05-19 16:28:12,095 - login -INFO - password provided
+2021-05-19 16:28:14,382 - login -INFO - login success
+2021-05-19 16:28:17,681 - login -INFO - user name provided
+2021-05-19 16:28:17,816 - login -INFO - password provided
+2021-05-19 16:28:20,104 - login -INFO - login success
+2021-05-19 16:28:23,402 - login -INFO - user name provided
+2021-05-19 16:28:23,524 - login -INFO - password provided
+2021-05-19 16:28:25,811 - login -INFO - login success
+2021-05-19 16:28:29,093 - login -INFO - user name provided
+2021-05-19 16:28:29,196 - login -INFO - password provided
+2021-05-19 16:28:31,479 - login -INFO - login success
+2021-05-19 16:28:34,714 - login -INFO - user name provided
+2021-05-19 16:28:34,810 - login -INFO - password provided
+2021-05-19 16:28:37,115 - login -INFO - login success
+2021-05-19 16:28:49,883 - login -WARN - password is unmasked
+2021-05-19 16:29:16,202 - login -INFO - url is opened
+2021-05-19 16:29:17,158 - login -INFO - landed on home page
+2021-05-19 16:29:28,466 - login -INFO - url is opened
+2021-05-19 16:29:32,188 - login -INFO - redirected to login page

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AequilibriumQAAssessment">
+
+	<listeners>
+		<listener class-name="com.ilogin.utilities.Reporting" />
+	</listeners>
+
+	<test name="Login Test FF">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.ilogin.testCases.TC_LoginTest_001"></class>
+			<class name="com.ilogin.testCases.TC_LoginTest_002"></class>
+			<class name="com.ilogin.testCases.TC_LoginTest_003"></class>
+			<class name="com.ilogin.testCases.TC_LoginTest_004"></class>
+			<class name="com.ilogin.testCases.TC_LoginTest_005"></class>
+			<class name="com.ilogin.testCases.TC_LoginTest_006"></class>
+		</classes>	
+		
+	</test>
+	
+	<test name="Login Test Chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.ilogin.testCases.TC_LoginTest_001"></class>
+			<class name="com.ilogin.testCases.TC_LoginTest_002"></class>
+			<class name="com.ilogin.testCases.TC_LoginTest_003"></class>
+			<class name="com.ilogin.testCases.TC_LoginTest_004"></class>
+			<class name="com.ilogin.testCases.TC_LoginTest_005"></class>
+			<class name="com.ilogin.testCases.TC_LoginTest_006"></class>
+		</classes>	
+		
+	</test>
+	
+	
+</suite>

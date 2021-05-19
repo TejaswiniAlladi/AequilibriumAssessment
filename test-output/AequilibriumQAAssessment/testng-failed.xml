@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AequilibriumQAAssessment]">
+  <listeners>
+    <listener class-name="com.ilogin.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Login Test FF(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.ilogin.testCases.TC_LoginTest_002">
+        <methods>
+          <include name="loginDDT" invocation-numbers="1 4 5 6 7 8 9"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ilogin.testCases.TC_LoginTest_002 -->
+    </classes>
+  </test> <!-- Login Test FF(failed) -->
+  <test thread-count="5" name="Login Test Chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.ilogin.testCases.TC_LoginTest_002">
+        <methods>
+          <include name="loginDDT"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ilogin.testCases.TC_LoginTest_002 -->
+      <class name="com.ilogin.testCases.TC_LoginTest_003">
+        <methods>
+          <include name="maskPwd"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ilogin.testCases.TC_LoginTest_003 -->
+      <class name="com.ilogin.testCases.TC_LoginTest_006">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="landingPage"/>
+        </methods>
+      </class> <!-- com.ilogin.testCases.TC_LoginTest_006 -->
+      <class name="com.ilogin.testCases.TC_LoginTest_004">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="browserNav"/>
+        </methods>
+      </class> <!-- com.ilogin.testCases.TC_LoginTest_004 -->
+      <class name="com.ilogin.testCases.TC_LoginTest_005">
+        <methods>
+          <include name="landingPage"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ilogin.testCases.TC_LoginTest_005 -->
+      <class name="com.ilogin.testCases.TC_LoginTest_001">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.ilogin.testCases.TC_LoginTest_001 -->
+    </classes>
+  </test> <!-- Login Test Chrome(failed) -->
+</suite> <!-- Failed suite [AequilibriumQAAssessment] -->

@@ -1,0 +1,38 @@
+2021-05-19 16:27:24,630 [main] INFO login - url is opened
+2021-05-19 16:27:25,713 [main] INFO login - clicked on login
+2021-05-19 16:27:25,728 [main] INFO login - login success
+2021-05-19 16:27:44,876 [main] INFO login - user name provided
+2021-05-19 16:27:45,046 [main] INFO login - password provided
+2021-05-19 16:27:47,470 [main] INFO login - login success
+2021-05-19 16:27:48,495 [main] INFO login - user name provided
+2021-05-19 16:27:48,625 [main] INFO login - password provided
+2021-05-19 16:27:50,942 [main] INFO login - login success
+2021-05-19 16:27:54,477 [main] INFO login - user name provided
+2021-05-19 16:27:54,644 [main] INFO login - password provided
+2021-05-19 16:27:56,993 [main] INFO login - login success
+2021-05-19 16:27:57,949 [main] INFO login - user name provided
+2021-05-19 16:27:58,074 [main] INFO login - password provided
+2021-05-19 16:28:05,423 [main] INFO login - login success
+2021-05-19 16:28:06,268 [main] INFO login - user name provided
+2021-05-19 16:28:06,362 [main] INFO login - password provided
+2021-05-19 16:28:08,660 [main] INFO login - login success
+2021-05-19 16:28:11,975 [main] INFO login - user name provided
+2021-05-19 16:28:12,095 [main] INFO login - password provided
+2021-05-19 16:28:14,382 [main] INFO login - login success
+2021-05-19 16:28:17,681 [main] INFO login - user name provided
+2021-05-19 16:28:17,816 [main] INFO login - password provided
+2021-05-19 16:28:20,104 [main] INFO login - login success
+2021-05-19 16:28:23,402 [main] INFO login - user name provided
+2021-05-19 16:28:23,524 [main] INFO login - password provided
+2021-05-19 16:28:25,811 [main] INFO login - login success
+2021-05-19 16:28:29,093 [main] INFO login - user name provided
+2021-05-19 16:28:29,196 [main] INFO login - password provided
+2021-05-19 16:28:31,479 [main] INFO login - login success
+2021-05-19 16:28:34,714 [main] INFO login - user name provided
+2021-05-19 16:28:34,810 [main] INFO login - password provided
+2021-05-19 16:28:37,115 [main] INFO login - login success
+2021-05-19 16:28:49,883 [main] WARN login - password is unmasked
+2021-05-19 16:29:16,202 [main] INFO login - url is opened
+2021-05-19 16:29:17,158 [main] INFO login - landed on home page
+2021-05-19 16:29:28,466 [main] INFO login - url is opened
+2021-05-19 16:29:32,188 [main] INFO login - redirected to login page
